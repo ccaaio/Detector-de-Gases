@@ -1,0 +1,1 @@
+Para instalar o projeto Detector de gases, precisa instalar e baixar o software do arduino, instalar as bibliotecas que estao listadas no codigo, mudar as configurações do wi-fi no codigo,compilar o código e jogar para dentro da placa conectado ao computador com a porta usb configurada.
